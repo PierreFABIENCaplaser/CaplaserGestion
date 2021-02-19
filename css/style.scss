@@ -1,0 +1,74 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden !important;
+    font-family: 'Lato', sans-serif;
+    transform-style: preserve-3d;
+    image-rendering: smooth;
+}
+
+main {
+    margin-top: 73px;
+}
+
+
+
+@import "slider.scss";
+@import "card.scss";
+@import "footer.scss";
+
+@import "./gestion/gestion.scss";
+@import "./gestion/nav.scss";
+@import "./gestion/timeline.scss";
+@import "./gestion/gestion-card.scss";
+@import "./gestion/box.scss";
+@import "./gestion/mediaqueries.scss";
+@import "./gestion/partenaireItem.scss";
+@import "./gestion/partenaire.scss";
+@import "./gestion/comptafinances.scss";
+
+
+.caplaser-main-titre {
+    margin-top: 70px !important;    
+    font-weight: 400;
+    margin-bottom: 15px;
+    font-size: 35px;
+    letter-spacing: 0;
+    margin: 2rem 0 1rem 0;
+    color: #2672d5;
+    text-align: justify;
+    width: 1300px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.caplaser-main-subtitre {
+    margin-right: auto;
+    margin-left: auto;
+
+    color: #8bc540;
+    width: 1300px;
+    font-size: 35px;
+    letter-spacing: 0;
+    font-weight: 500;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

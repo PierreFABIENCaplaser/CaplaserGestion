@@ -1,0 +1,14 @@
+.comptafinances {
+    .caplaser-container-card {
+        width: 245px;
+        height: 300px;
+    }
+
+    .partenaire_large {
+        width: 270px;
+        height: 270px;
+    }
+    .caplaser-container {
+        grid-template-columns: repeat(auto-fill, 230px) !important;
+    }
+}
