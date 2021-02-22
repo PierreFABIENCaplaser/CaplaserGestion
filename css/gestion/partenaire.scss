@@ -1,8 +1,14 @@
+.partenaire {
+    display: grid !important;
+    grid-template-columns: repeat(auto-fill, 270px);
+    justify-content: space-between !important;
+}
 .caplaser-container-partenaire {
     width: 200px;
     height: 200px;
     padding: 20px;
     margin: 40px;
+
 
     img {
         width: 100%;

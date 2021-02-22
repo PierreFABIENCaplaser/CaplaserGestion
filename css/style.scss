@@ -11,8 +11,6 @@ main {
     margin-top: 73px;
 }
 
-
-
 @import "slider.scss";
 @import "card.scss";
 @import "footer.scss";
@@ -26,6 +24,8 @@ main {
 @import "./gestion/partenaireItem.scss";
 @import "./gestion/partenaire.scss";
 @import "./gestion/comptafinances.scss";
+
+@import "./gestion/PagePartenaire.scss";
 
 
 .caplaser-main-titre {

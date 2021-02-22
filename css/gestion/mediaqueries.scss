@@ -4,11 +4,13 @@
     width: 1000px;
   }
 
-  .caplaser-main-slider{
+  .caplaser-main-slider {
     width: 1000px;
+
     .caplaser-main-slider-slides-slide-left {
       width: 70%;
     }
+
     .caplaser-main-slider-slides-slide-right {
       width: 30%;
     }
@@ -31,6 +33,10 @@
     }
   }
 
+  .partenaire {
+    width: 1000px !important;
+  }
+
   .caplaser-presentation {
     width: 1000px !important;
 
@@ -44,11 +50,13 @@
     }
   }
 
-  .caplaser-box {    
+  .caplaser-box {
     width: 1000px !important;
+
     .caplaser-box-left {
       width: 100% !important;
-      .caplaser-box-titre{
+
+      .caplaser-box-titre {
         width: fit-content !important;
       }
     }
@@ -70,12 +78,14 @@
     width: 760px;
   }
 
-  .caplaser-main-slider{
+  .caplaser-main-slider {
     width: 760px;
+
     .caplaser-main-slider-slides-slide-left {
       width: 100%;
       border-bottom-right-radius: 50px;
     }
+
     .caplaser-main-slider-slides-slide-right {
       display: none;
     }
@@ -98,6 +108,10 @@
     }
   }
 
+  .partenaire {
+    width: 620px !important;
+  }
+
   .caplaser-presentation {
     width: 620px !important;
 
@@ -111,13 +125,16 @@
     }
   }
 
-  .caplaser-box {    
+  .caplaser-box {
     width: 620px !important;
+
     .caplaser-box-left {
       width: 100% !important;
-      .caplaser-box-titre{
+
+      .caplaser-box-titre {
         width: fit-content !important;
       }
+
       .caplaser-box-paragraphe {
         padding: 0 !important;
       }
@@ -179,13 +196,15 @@
     width: 80%;
   }
 
-  .caplaser-main-slider{
+  .caplaser-main-slider {
     width: 80%;
     height: 600px;
+
     .caplaser-main-slider-slides-slide-left {
       width: 100%;
       border-bottom-right-radius: 50px;
     }
+
     .caplaser-main-slider-slides-slide-right {
       display: none;
     }
@@ -231,6 +250,9 @@
     }
   }
 
+  .partenaire {
+    width: 80% !important;
+  }
 
   .caplaser-presentation {
     width: 80% !important;
@@ -246,11 +268,13 @@
     }
   }
 
-  .caplaser-box {    
+  .caplaser-box {
     width: 80% !important;
+
     .caplaser-box-left {
       width: 100% !important;
-      .caplaser-box-titre{
+
+      .caplaser-box-titre {
         width: fit-content !important;
       }
     }
@@ -270,5 +294,5 @@
     height: auto !important;
     padding: 20px;
     margin: 40px;
-}
+  }
 }
